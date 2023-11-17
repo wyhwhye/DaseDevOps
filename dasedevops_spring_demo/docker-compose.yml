@@ -1,6 +1,5 @@
 version: "3"
 
-
 services:
   providerOne:
     image: ${{ secrets.ALI_NAMESPACE_URL }}/provider_one:latest
